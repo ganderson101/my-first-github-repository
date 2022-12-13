@@ -1,4 +1,4 @@
 # my-first-github-repository
 testing github from packt
 
-edited manually
+edited manually.  This file was modified locally
