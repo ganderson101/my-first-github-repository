@@ -1,4 +1,4 @@
 # my-first-github-repository
 testing github from packt
 
-edited manually.  This file was modified locally
+This line was modified manually during conflicts resolution
